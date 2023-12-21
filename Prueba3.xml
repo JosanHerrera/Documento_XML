@@ -1,0 +1,26 @@
+
+<!--TODO: En este ejemplo empleamos un atributo llamado <material> dentro del mismo articulo <articulo>, y luego sus correspondientes subclases <cantidad>, <marca>, <color> -->
+
+<?xml version="1.0" enconding="UTF-8"?>
+<pedido>
+    <articulo material="lápiz">
+        <cantidad>30</cantidad>
+        <marca>A</marca>
+        <color>negro</color>
+    </articulo>
+    <articulo material="blocs">
+        <cantidad>20</cantidad>
+        <marca>B</marca>
+        <color>azul</azul>
+    </articulo>
+    <articulo material="bolígrafos">
+        <cantidad>40</cantidad>
+        <marca>C</marca>
+        <color>verde</color>
+    </articulo>
+    <articulo material="bolígrafos">
+        <cantidad>20</cantidad>
+        <marca>D</marca>
+        <color>negro</color>
+</pedido>
+

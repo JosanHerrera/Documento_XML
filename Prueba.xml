@@ -1,0 +1,11 @@
+
+<!--TODO: Esta estructura es simple, cada material se muestra como un elemento <material>, con sus respectivos atributos cantidad, nombre, marca y color y cada <material> se muestra dentro del elemento global <pedido> -->
+
+<?xml version=1.0 encoding="UTF-8"?>
+
+<pedido>
+    <material cantidad="30" nombre="lapiz" marca="A" color="negro">
+    <material cantidad="20" nombre="blocs" marca="B" color="azul">
+    <material cantidad="40" nombre="bolígrafos" marca="C" color="verde">
+    <material cantidad="20" nombre="bolígrafos" marca="D" color="negro">
+</pedido>

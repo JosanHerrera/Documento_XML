@@ -1,0 +1,31 @@
+
+<!--TODO: Esto es un método más estructurado, hay elementos anidados dentro de la clase <material> y cada clase tiene subclases <cantidad>, <nombre>, <marca>, <color> -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lista>
+    <material> 
+        <cantidad>30</cantidad>
+        <nombre>lapices</nombre>
+        <marca>A</marca>
+        <color>negro</color>
+    </material>
+    <material> 
+        <cantidad>20</canitdad>
+        <nombre>blocs</nombre>
+        <marca>B</merca>
+        <color>azul</color>
+    </material>
+    <material>
+        <cantidad>40</cantidad>
+        <nombre>bolígrafos</nombre>
+        <marca>C</marca>
+        <color>verde</color>
+    </material>
+    <material>
+        <cantidad>20</cantidad>
+        <nombre>Boligrafos</nombre>
+        <marca>D</marca>
+        <color>negro</color>
+    </material>
+</Lista>
